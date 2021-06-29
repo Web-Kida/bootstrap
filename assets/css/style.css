@@ -6,7 +6,7 @@ html body{
     height: 100%;
 }
 .container-fluid{
-    background: url('/img/bg/home-bg.jpg') rgba(0, 0, 0, 0.3);
+    background: url('../img/bg/home-bg.jpg') rgba(0, 0, 0, 0.3);
     background-position: center;
    background-size: cover;
    background-blend-mode: darken;
