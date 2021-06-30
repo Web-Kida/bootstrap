@@ -679,6 +679,9 @@ html body{
         width: 100%;
         height: 100vh;
     }
+    .active .icon3{
+    background: url('../img/minus.png') no-repeat deepskyblue;
+}
 }
 /* page-12 */
 /* .contact{
